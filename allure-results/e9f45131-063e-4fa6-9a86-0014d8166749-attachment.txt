@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"sc-buy-box-ptc-button\"]/span/input"
+}

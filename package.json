@@ -1,0 +1,30 @@
+{
+  "name": "automation-sample-amazon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js",
+    "allure:generate": "allure generate allure-results --clean",
+    "allure:serve": "allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@testing-library/webdriverio": "^3.2.1",
+    "@wdio/allure-reporter": "^8.39.0",
+    "@wdio/cli": "^8.39.0",
+    "@wdio/cucumber-framework": "^8.39.0",
+    "@wdio/local-runner": "^8.39.0",
+    "@wdio/spec-reporter": "^8.39.0",
+    "@wdio/visual-service": "^5.1.0",
+    "allure-commandline": "^2.29.0",
+    "wdio-wait-for": "^3.0.11"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/register": "^7.24.6"
+  }
+}

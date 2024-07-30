@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"authportal-main-section\"]/div[2]/div[2]/div[1]//*[contains(text(), \"Sign in\")]"
+}

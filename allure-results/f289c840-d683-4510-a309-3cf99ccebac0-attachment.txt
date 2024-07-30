@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"search\"]/div[1]/div[1]/div/span[1]/div[1]/div[3]/div/div/div/div/span/div/div/div[3]/div[6]/div/div/div[1]/div/strong[contains(text(), \"Item Added\")]"
+}
