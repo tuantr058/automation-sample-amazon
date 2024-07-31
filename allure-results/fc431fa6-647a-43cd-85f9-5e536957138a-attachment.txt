@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@id=\"DealsGridScrollAnchor\"]/div[2]/div[5]/div//*[contains(text(), \"10% off or more\")]"
-}
